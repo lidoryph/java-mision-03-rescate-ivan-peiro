@@ -110,7 +110,7 @@ public class Main {
         matriz[locY][locX] = 'R';
         robLin = locY;
         robCol = locX;
-
+        vidas--;
         printTable();
     }
 
